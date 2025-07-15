@@ -16,14 +16,17 @@ xdg-desktop-portal-hyprland
 From config file:  
 waybar  
 wofi  
-mako  
-power-profile-daemon  
+mako   
 ghostty  
 thunar  
+Optional:  
+power-profile-daemon  
 opentabletdriver(AUR)  
 
 all thoses packages are Arch packages (excepts OTD from the AUR)  
 you can ask or add things you would like i will try to respond as fast as possible  
+
+with Mainmod CTRL 1 to 4 you can change from thoses 4 weebpaper
 
 preview of weebpaper  
 
