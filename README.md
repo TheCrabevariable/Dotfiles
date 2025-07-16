@@ -34,9 +34,10 @@ you can ask or add things you would like i will try to respond as fast as possib
 
 with Mainmod CTRL 1 to 4 you can change from thoses 4 weebpaper
 
+
+<img width="1920" height="1080" alt="image4" src="https://github.com/user-attachments/assets/ba3f7c1c-44a8-4438-a1de-2bb627f81842" />   
 preview of weebpaper  
 
-<img width="1920" height="1080" alt="image4" src="https://github.com/user-attachments/assets/ba3f7c1c-44a8-4438-a1de-2bb627f81842" />  
 <img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/71a40a4e-6cf8-4c2a-bcad-8b2fa3f02634" />  
 <img width="1918" height="1080" alt="image1" src="https://github.com/user-attachments/assets/9724056d-a224-4206-9d87-0641bc8d805b" />  
 <img width="1917" height="1075" alt="image2" src="https://github.com/user-attachments/assets/1faef7de-22a0-4df1-a2f0-f139699054b6" />  
